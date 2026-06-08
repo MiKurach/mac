@@ -26,7 +26,7 @@ Of course, there are two main caveats.
 First - it will snatch the mouse more zealously than your sibling during hotseat session. You won't be able to do any work while it's doing its job, so leave it be. Maybe listen to your favorite music or watch some movie on the other screen (just make sure it doesn't have any Download buttons in it).
 Second - while it will simultaneously decrease completion time and your chances of getting Carpal tunnel syndrome, it still won't improve the download speed itself. 
 
-MAC has been created using AutoHotkey, but is distributed as a compiled `.exe`, so it can be launched directly on Windows without the need of installing AutoHotkey on your machine. Still, if you'd like to use it in the script form or modify it, feel free to grab a copy from the source folder.
+MAC has been created using AutoHotkey, but is distributed as a compiled `.exe`, so it can be launched directly on Windows without the need of installing AutoHotkey on your machine. Still, if you'd like to use it in the script form or modify it, feel free to grab a copy from the source folder. This version requires [Color Button.ahk](https://github.com/nperovic/ColorButton.ahk) located in the same directory to work.
 
 ## Functionality
 
@@ -55,7 +55,7 @@ MAC has been created using AutoHotkey, but is distributed as a compiled `.exe`, 
 5. Set the **Search interval (ms)** value.
 6. Click **Add PNG file(s)** and select one or more PNG references.
 7. Use **Up** and **Down** to adjust PNG priority order.
-8. Optional - test the target before starting. If it detects a window, but it's not active, don't worry - it'll become active upon start.
+8. **Optional**: test the target before starting. If it detects a window, but it's not active, don't worry - it'll become active upon start.
 9. Press **Start** to begin scanning.
 10. Keep the target window active while MAC is running.
 
