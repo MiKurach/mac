@@ -1,7 +1,7 @@
 # Modlist Automated Clicker (MAC)
 
 <p align="center">
-  <img src="mac-hq-2.jpg" alt="MAC mascot" width="220">
+  <img src="img/mac-hq.png" alt="MAC mascot" width="220">
 </p>
 
 **Modlist Automated Clicker (MAC)** is a small Windows utility that automatically detects predefined PNG images inside a target application window and clicks them when they appear.
@@ -10,7 +10,7 @@ It is designed as a lightweight helper for repetitive UI interaction, with confi
 
 ## Screenshot
 
-![MAC main window](screenshot.jpg)
+![MAC main window](img/screenshot.png)
 
 ## Overview
 
