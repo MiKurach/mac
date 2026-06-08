@@ -51,10 +51,10 @@ MAC has been created using AutoHotkey, but is distributed as a compiled `.exe`, 
    Wabbajack.exe
    ```
 3. Set or change the toggle hotkey if needed.
-4. Set the default image **Variation** value.
-5. Set the **Search interval (ms)** value.
+4. Set the default image **Variation** value (0-100).
+5. Change the **Search interval (ms)** value if needed.
 6. Click **Add PNG file(s)** and select one or more PNG references.
-7. Use **Up** and **Down** to adjust PNG priority order.
+7. Use **Up** and **Down** to adjust PNG priority order if needed.
 8. **Optional**: test the target before starting. If it detects a window, but it's not active, don't worry - it'll become active upon start.
 9. Press **Start** to begin scanning.
 10. Keep the target window active while MAC is running.
@@ -62,8 +62,7 @@ MAC has been created using AutoHotkey, but is distributed as a compiled `.exe`, 
 ## Notes
 
 - PNGs are checked in top-to-bottom order, so the higher in the list it is, the higher priority it gets.
-- Lowering search interval value makes detection more responsive, but it may increase CPU usage.
-- Increasing search interval value reduces CPU usage, but may delay detection slightly.
+- Lowering search interval value makes detection more responsive, but it may increase CPU usage. 100-1000 ms is best for most use cases.
 - Variation controls how much visual difference is allowed when matching an image.
 - For best results, use tightly cropped PNGs that contain only the clickable download button.
 - MAC checks whether the target window is active before scanning; a visible window is not always the same as the active window.
