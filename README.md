@@ -71,5 +71,6 @@ MAC has been created using AutoHotkey, but is distributed as a compiled `.exe`, 
 ## Disclaimer
 
 Use MAC only where UI automation is allowed.  
-Some applications, launchers, or services may restrict or prohibit automated interaction.
+Some applications, launchers or services may restrict or prohibit automated interaction.
+
 This tool is not affiliated nor endorsed by The Wabbajack Team, Bethesda Softworks or Sheogorath the Daedric Prince of Madness.
