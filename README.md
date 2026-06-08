@@ -20,7 +20,7 @@ A couple hundred, maybe thousand. It will take you AGES. You start looking for a
 Does that sound like you? 
 If so, Modlist Automated Clicker (MAC) might be just the thing you need.
 
-It's a very simple tool, really. All you need to do is to open it, take some screenshots of the download button(s), add them to the app and hit start. After that, sit back and enjoy as MAC does all the clicking for you. 
+It's a very simple tool, really. All you need to do is to open it, take some screenshots of the download button(s), add them in and hit start. After that, sit back and enjoy as MAC does all the clicking for you. 
 
 Of course, there are two main caveats. 
 First - it will snatch the mouse more zealously than your sibling during hotseat session. You won't be able to do any work while it's doing its job, so leave it be. Maybe listen to your favorite music or watch some movie on the other screen (just make sure it doesn't have any Download buttons in it).
